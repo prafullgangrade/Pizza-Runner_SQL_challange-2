@@ -12,7 +12,7 @@ here is the link of SQL challange Case Study #2 - Pizza Runner https://8weeksqlc
   - [Dataset](#dataset)
   - [Entity Relationship Diagram](#entity-relationship-diagram)
   - [Data Clean](#data-clean)
-  - [Case Study Solutions](#case-study-solutions)
+  - [Case Study Questions](#case-study-solutions)
 
 **Introduction**
 
@@ -65,3 +65,5 @@ The challenges in this case study include:
 10. What was the volume of orders for each day of the week?
 
 **Attachments**
+
+https://github.com/prafullgangrade/Pizza-Runner_SQL_challange-2.git
