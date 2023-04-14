@@ -48,32 +48,20 @@ There are some known data issues with few tables. Data cleaning was performed an
 - In the duration column, there are null values. The 'minutes', 'mins' 'minute' must be stripped
 - In the cancellation column, there are blank spaces and null values.
 
-
 In this Task I try to solve and answer all query related to this task and find insights from data for answer a few simple questions about 
 The challenges in this case study include:
 
-What are the busiest days of the week and the busiest times of the day?
+## Case Study Questions
 
-What is the average delivery time?
-
-What are the most popular pizza toppings?
-
-What is the average order value?
-
-How many pizzas are delivered by each delivery driver?
-
-What is the average customer rating?
-
-Which delivery driver has the best average rating?
-
-Which delivery driver has the most deliveries?
-
-**Description**
-
-![image](https://user-images.githubusercontent.com/56063563/232028715-5b6d67e0-87c6-4dc1-8382-2b2f02a8d91c.png)
-
-**Steps followed**
-
-**Summarry**
+1. How many pizzas were ordered?
+2. How many unique customer orders were made?
+3. How many successful orders were delivered by each runner?
+4. How many of each type of pizza was delivered?
+5. How many Vegetarian and Meatlovers were ordered by each customer?
+6. What was the maximum number of pizzas delivered in a single order?
+7. For each customer, how many delivered pizzas had at least 1 change and how many had no changes?
+8. How many pizzas were delivered that had both exclusions and extras?
+9. What was the total volume of pizzas ordered for each hour of the day?
+10. What was the volume of orders for each day of the week?
 
 **Attachments**
